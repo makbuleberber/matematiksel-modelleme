@@ -31,10 +31,12 @@ Az miktarda etiketli veri + Çok miktarda etiketsiz veri.
 * **Örnek:** Satranç oynayan yapay zeka veya yürümeyi öğrenen robot.
 
 ---
-**Özet Tablo:**
+**Özet Tablo ve Resim:**
 
 | Tür | Veri Tipi | Anahtar Kelime |
 | :--- | :--- | :--- |
 | **Denetimli/Supervised** | Etiketli | Sınıflandırma |
 | **Yarı Denetimli/Unsupervised** | Etiketsiz | Kümeleme |
 | **Pekiştirmeli/Reinforcement** | Ortam/Environment | Ödül & Ceza, Kontrol |
+
+![Makine Öğrenmesi Türleri](../assets/types-of-ml.jpeg)
